@@ -1,0 +1,159 @@
+[
+  {
+    "id": 0,
+    "name": "Glowhaus",
+    "client": "Bloomingdale's",
+    "thumb": "https://images.bloomingdalesassets.com/is/image/BcomMkt/glowhaus-_-0.35.0-_-12Shot_190530_GLOWHAUS_053_lg?FMT=JPG&scl=1&qlt=90,0&resMode=sharp2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
+    "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
+    "link": "http://www.bloomingdales.com",
+    "details": [
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      },
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "The Workshop",
+    "client": "Bloomingdale's",
+    "thumb": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/80072/workshop.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
+    "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
+    "details": [
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mixmasters",
+    "client": "Bloomingdale's",
+    "thumb": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/80072/mixmasters.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
+    "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
+    "link": "http://www.bloomingdales.com",
+    "details": [
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      },
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      },
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Heart of NY",
+    "client": "Bloomingdale's",
+    "thumb": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/80072/heart-of-ny.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
+    "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
+    "link": "http://www.bloomingdales.com",
+    "details": [
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Studio59",
+    "client": "Bloomingdale's",
+    "thumb": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/80072/studio-59.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
+    "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
+    "link": "http://www.bloomingdales.com",
+    "details": [
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dew NBA 3v3",
+    "client": "NBA",
+    "thumb": "http://placehold.it/1400x900/333/333",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
+    "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
+    "link": "http://www.bloomingdales.com",
+    "details": [
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jr. NBA 3v3",
+    "client": "NBA",
+    "thumb": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/80072/heart-of-ny.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
+    "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
+    "link": "http://www.bloomingdales.com",
+    "details": [
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Studio59",
+    "client": "Bloomingdale's",
+    "thumb": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/80072/studio-59.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
+    "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
+    "link": "http://www.bloomingdales.com",
+    "details": [
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      },
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      },
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      },
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Project Name 2",
+    "client": "Bloomingdale's",
+    "thumb": "http://placehold.it/1400x900/333/333",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
+    "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
+    "link": "http://www.bloomingdales.com",
+    "details": [
+      {
+        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "description": "The description would go here"
+      }
+    ]
+  }
+]
