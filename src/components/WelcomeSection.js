@@ -1,12 +1,12 @@
 import React from "react";
-import Button from "./Button";
+import scrollTo from "../scrollTo";
 
 function WelcomeSection(props) {
 	return (
 		<div className="landing" id="landing">
         <h1 id="title">Brian Holden</h1>
         <p>{props.description}</p>
-        <Button href="#" text="View Work" />
+        <button className="button" href="#" onClick={(e) => {e.preventDefault(); scrollTo(window, 0, window.innerHeight); }}>View Work</button>
     </div>
 	);
 }

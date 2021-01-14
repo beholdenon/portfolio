@@ -1,13 +1,6 @@
-import $ from "jquery";
-
 export default function fadeScroll() {
 	window.onscroll = function() {
-		let w=window,
-		d = document,
-		e = d.documentElement,
-		g = d.getElementsByTagName('body')[0],
-		x = w.innerWidth || e.clientWidth || g.clientWidth,
-		y = w.innerHeight || e.clientHeight || g.clientHeight,
+		let w = window,
 		scrollTop = w.pageYOffset,
 		perc = scrollTop / 2 / (w.innerHeight / 2);
 

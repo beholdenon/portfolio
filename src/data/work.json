@@ -10,6 +10,7 @@
     "details": [
       {
         "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "alt": "Alt Tag",
         "description": "The description would go here"
       },
       {
@@ -24,16 +25,33 @@
     "thumb": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/80072/workshop.jpg",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
     "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
+    "link": "https://www.bloomingdales.com/b/campaigns/fall18workshop",
     "details": [
       {
-        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
-        "description": "The description would go here"
+        "media": "https://assets.codepen.io/80072/workshop1.png",
+        "alt": "Alt Tag"
+      },
+      {
+        "media": "https://assets.codepen.io/80072/workshop2_1.png",
+        "alt": "Alt Tag"
+      },
+      {
+        "media": "https://assets.codepen.io/80072/workshop3.png",
+        "alt": "Alt Tag"
+      },
+      {
+        "media": "https://assets.codepen.io/80072/workshop4.png",
+        "alt": "Alt Tag"
+      },
+      {
+        "media": "https://assets.codepen.io/80072/workshop5.png",
+        "alt": "Alt Tag"
       }
     ]
   },
   {
     "id": 2,
-    "name": "Mixmasters",
+    "name": "Mixmasters Spring",
     "client": "Bloomingdale's",
     "thumb": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/80072/mixmasters.jpg",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
@@ -42,14 +60,17 @@
     "details": [
       {
         "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "alt": "Alt Tag",
         "description": "The description would go here"
       },
       {
         "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "alt": "Alt Tag",
         "description": "The description would go here"
       },
       {
         "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "alt": "Alt Tag",
         "description": "The description would go here"
       }
     ]
@@ -65,6 +86,7 @@
     "details": [
       {
         "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "alt": "Alt Tag",
         "description": "The description would go here"
       }
     ]
@@ -80,78 +102,71 @@
     "details": [
       {
         "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "alt": "Alt Tag",
         "description": "The description would go here"
       }
     ]
   },
   {
     "id": 5,
-    "name": "Dew NBA 3v3",
-    "client": "NBA",
-    "thumb": "http://placehold.it/1400x900/333/333",
+    "name": "Mixmasters Fall",
+    "client": "Bloomingdale's",
+    "thumb": "https://assets.codepen.io/80072/mixmasters-aaron.jpg",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
     "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
     "link": "http://www.bloomingdales.com",
     "details": [
       {
         "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "alt": "Alt Tag",
         "description": "The description would go here"
       }
     ]
   },
   {
     "id": 6,
-    "name": "Jr. NBA 3v3",
-    "client": "NBA",
-    "thumb": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/80072/heart-of-ny.jpg",
+    "name": "Editorial Builder",
+    "client": "Bloomingdale's",
+    "thumb": "https://assets.codepen.io/80072/lookbooks_1.jpg",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
     "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
     "link": "http://www.bloomingdales.com",
     "details": [
       {
         "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "alt": "Alt Tag",
         "description": "The description would go here"
       }
     ]
   },
   {
     "id": 7,
-    "name": "Studio59",
-    "client": "Bloomingdale's",
-    "thumb": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/80072/studio-59.jpg",
+    "name": "Dew NBA 3v3",
+    "client": "NBA",
+    "thumb": "https://assets.codepen.io/80072/dewnba.jpg",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
     "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
     "link": "http://www.bloomingdales.com",
     "details": [
       {
         "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
-        "description": "The description would go here"
-      },
-      {
-        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
-        "description": "The description would go here"
-      },
-      {
-        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
-        "description": "The description would go here"
-      },
-      {
-        "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "alt": "Alt Tag",
         "description": "The description would go here"
       }
     ]
   },
   {
     "id": 8,
-    "name": "Project Name 2",
-    "client": "Bloomingdale's",
-    "thumb": "http://placehold.it/1400x900/333/333",
+    "name": "Jr. NBA 3v3",
+    "client": "NBA",
+    "thumb": "https://assets.codepen.io/80072/jrnba.jpg",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies.",
     "longDescription": "Lorem ipsum dolor sit amet, adipiscing elit. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ligula ut magna viverra ultricies. Nullam vel ligula ut magna ultricies. Lorem ipsum dolor sit amet.",
     "link": "http://www.bloomingdales.com",
     "details": [
       {
         "media": "http://placehold.it/1400x900/6d6d6d/6d6d6d",
+        "alt": "Alt Tag",
         "description": "The description would go here"
       }
     ]

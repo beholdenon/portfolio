@@ -1,27 +1,26 @@
 [
   {
     "name": "Social Distancing",
-    "thumb": "http://placehold.it/1400x900/333/333"
+    "thumb": "https://assets.codepen.io/80072/social-distancing.jpg"
   },
   {
     "name": "Fun With Shadows",
-    "thumb": "http://placehold.it/1400x900/333/333"
+    "thumb": "https://assets.codepen.io/80072/shadows.jpg"
   },
   {
-    "name": "Social Distancing",
-    "thumb": "http://placehold.it/1400x900/333/333"
+    "name": "Shifting Weights",
+    "thumb": "https://assets.codepen.io/80072/pandemic.jpg"
   },
   {
-    "name": "Animating Type",
-    "thumb": "http://placehold.it/1400x900/333/333"
-  }
-  ,
-  {
-    "name": "Social Distancing",
-    "thumb": "http://placehold.it/1400x900/333/333"
+    "name": "Feeling Woozy",
+    "thumb": "https://assets.codepen.io/80072/woozy.jpg"
   },
   {
-    "name": "Animating Type",
-    "thumb": "http://placehold.it/1400x900/333/333"
+    "name": "Random Type",
+    "thumb": "https://assets.codepen.io/80072/variable-type.jpg"
+  },
+  {
+    "name": "Color Change",
+    "thumb": "https://assets.codepen.io/80072/color-change.jpg"
   }
 ]

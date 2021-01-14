@@ -6,13 +6,13 @@ import Button from "./Button";
 function PlaygroundSection({ playgroundItems }) {
 	return (
 		<div className="section playground">
-			<Heading title="Playground" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium maximus tortor quis mattis. In nulla tortor, mattis quis sodales sed, interdum id quam." />
+			<Heading title="Playground" description="Some playful experiments I created in my off time. I do get outside occasionaly as well." />
 			<div className="grid-container">
 				{playgroundItems.map((playgroundItem, i) => (
 					<ThumbItem key={i} {...playgroundItem} delay={i * 100} />
 				))}
 			</div>
-			<Button href="#" text="View More On CodePen" animation="fade-up" />
+			<Button href="https://codepen.io/beholdenon" text="View More On CodePen" animation="fade-up" />
 		</div>
 	);
 }

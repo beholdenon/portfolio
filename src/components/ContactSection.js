@@ -1,19 +1,50 @@
-import React from "react";
+import React, {useState} from "react";
 import Heading from "./Heading";
 import Button from "./Button";
 
 function ContactSection() {
+	const [name, setName] = useState("");
+	const [email, setEmail] = useState("");
+	const [message, setMessage] = useState("");
+
+	const submit = e => {
+		e.preventDefault();
+		setName("");
+		setEmail("");
+		setMessage("");
+	};
+
 	return (
 		<div className="section contact">
-			<Heading title="Connect" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium maximus tortor quis mattis. In nulla tortor, mattis quis sodales sed, interdum id quam." />
-			<div className="form" data-aos="fade-up" data-aos-duration="600">
-				<div className="row-2">
-					<input type="text" id="name" name="fname" placeholder="Name" />
-					<input className="email" type="text" id="email" name="email" placeholder="Email" />
+			<Heading title="Connect" description="Let's talk. Ping me using the form below." />
+			<form onSubmit={submit}>
+				<div className="form" data-aos="fade-up" data-aos-duration="600">
+					<div className="row-2">
+						<input 
+							value={name}
+							onChange={event => setName(event.target.value)}
+							type="text" 
+							placeholder="Name" 
+							required
+						/>
+						<input 
+							value={email}
+							className="email"
+							onChange={event => setEmail(event.target.value)}
+							type="email" 
+							placeholder="Email" 
+							required
+						/>
+					</div>
+					<textarea
+						value={message}
+						onChange={event => setMessage(event.target.value)}
+						rows="30"
+						placeholder="Message">
+					</textarea>
+					<button className="button">Submit</button>
 				</div>
-				<textarea name="message" rows="30" placeholder="Message"></textarea>
-				<Button href="#" text="Send" animation="fade-up" />
-			</div>
+			</form>
 		</div>
 	);
 }

@@ -101,7 +101,7 @@ var VFont = function () {
   };
 
   this.setSize = function () {
-    let widthToUse = window.innerWidth;
+    let widthToUse = window.innerWidth/1.6;
 
     if (widthToUse > 900) {
       widthToUse = 900;
@@ -147,6 +147,4 @@ var VFont = function () {
   return this;
 };
 
-export default function initVfont() {
-  var txt = new VFont();
-}
+export default VFont;
